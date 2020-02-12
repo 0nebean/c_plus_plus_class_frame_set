@@ -1,0 +1,11 @@
+//
+// Created by 0neBean on 2020/1/26.
+//
+
+#ifndef DATA_STRUCTURE_INTNUMBEROPERATOR_H
+#define DATA_STRUCTURE_INTNUMBEROPERATOR_H
+
+#include "IntNumberOperator.cpp"
+
+
+#endif //DATA_STRUCTURE_INTNUMBEROPERATOR_H

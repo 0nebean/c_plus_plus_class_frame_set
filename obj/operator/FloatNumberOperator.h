@@ -1,0 +1,10 @@
+//
+// Created by 0neBean on 2020/1/23.
+//
+
+#ifndef DATA_STRUCTURE_FLOATNUMBEROPERATOR_H
+#define DATA_STRUCTURE_FLOATNUMBEROPERATOR_H
+
+#include "FloatNumberOperator.cpp"
+
+#endif //DATA_STRUCTURE_FLOATNUMBEROPERATOR_H
