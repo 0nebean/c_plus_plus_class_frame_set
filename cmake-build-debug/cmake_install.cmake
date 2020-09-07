@@ -1,4 +1,4 @@
-# Install script for directory: D:/workspace/workspace_c++/data_structure
+# Install script for directory: D:/workspace/workspace_c++/c_plus_plus_class_frame_set
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/workspace/workspace_c++/data_structure/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/workspace/workspace_c++/c_plus_plus_class_frame_set/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
